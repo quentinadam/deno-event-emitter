@@ -1,0 +1,23 @@
+{
+  "name": "@quentinadam/event-emitter",
+  "version": "0.1.0",
+  "description": "A simple class to handle emitting and listening to events",
+  "license": "MIT",
+  "author": "Quentin Adam",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quentinadam/deno-event-emitter.git"
+  },
+  "exports": "./src/EventEmitter.ts",
+  "fmt": {
+    "singleQuote": true,
+    "lineWidth": 120
+  },
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true,
+    "noImplicitReturns": true
+  },
+  "imports": {
+    "typescript": "npm:typescript@^5.8.3"
+  }
+}

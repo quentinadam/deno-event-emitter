@@ -2,7 +2,7 @@
 
 [![JSR][jsr-image]][jsr-url] [![NPM][npm-image]][npm-url] [![CI][ci-image]][ci-url]
 
-A simple class to handle emitting and listening to events.
+A simple class to handle emitting and listening to strongly typed events.
 
 ## Usage
 

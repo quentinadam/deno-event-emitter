@@ -1,6 +1,6 @@
 {
   "name": "@quentinadam/event-emitter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple class to handle emitting and listening to strongly typed events",
   "license": "MIT",
   "author": "Quentin Adam",
@@ -18,6 +18,6 @@
     "noImplicitReturns": true
   },
   "imports": {
-    "typescript": "npm:typescript@^5.9.2"
+    "typescript": "npm:typescript@^5.9.3"
   }
 }

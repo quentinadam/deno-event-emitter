@@ -1,6 +1,6 @@
 {
   "name": "@quentinadam/event-emitter",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A simple class to handle emitting and listening to strongly typed events",
   "license": "MIT",
   "author": "Quentin Adam",

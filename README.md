@@ -7,7 +7,7 @@ A simple class to handle emitting and listening to strongly typed events.
 ## Usage
 
 ```ts
-import EventEmitter from '@quentinadam/event-emitter';
+import { EventEmitter } from '@quentinadam/event-emitter';
 
 const onUpdate = new EventEmitter<[value: number]>();
 

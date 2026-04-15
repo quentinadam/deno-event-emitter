@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git+https://github.com/quentinadam/deno-event-emitter.git"
   },
-  "exports": "./src/EventEmitter.ts",
+  "exports": "./src/mod.ts",
   "fmt": {
     "singleQuote": true,
     "lineWidth": 120
@@ -18,6 +18,6 @@
     "noImplicitReturns": true
   },
   "imports": {
-    "typescript": "npm:typescript@^5.9.3"
+    "typescript": "npm:typescript@^6.0.2"
   }
 }
